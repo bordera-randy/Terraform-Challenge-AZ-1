@@ -14,7 +14,11 @@
 
 <!-- TOC --><a name="web-server-environment-using-terraform"></a>
 # Web server environment using terraform
+This challenge provides a hands-on experience in setting up a basic Azure environment using Terraform, a popular Infrastructure as Code (IaC) tool.
 
+Participants will learn how to create a virtual network with multiple subnets, deploy virtual machines, and configure network security groups. Additionally, the challenge includes setting up essential infrastructure components like storage accounts and load balancers. By working through this challenge, students will gain practical skills in using Terraform to automate and manage cloud infrastructure, which is a crucial aspect of modern DevOps practices.
+
+This challenge is ideal for those looking to deepen their understanding of Terraform and its application in real-world scenarios, making it a valuable addition to any DevOps curriculum.
 
 <!-- TOC --><a name="challenge-overview"></a>
 ## Challenge Overview
