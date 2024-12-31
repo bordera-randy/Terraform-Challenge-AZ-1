@@ -19,7 +19,11 @@
 <!-- TOC --><a name="challenge-overview"></a>
 ## Challenge Overview
 
-Create a proof-of-concept Azure environment using Terraform. The environment will host a basic web server with proper network segmentation and security controls. Use open source terraform modules such as ([Coalfire-CF repositories](https://github.com/orgs/Coalfire-CF/repositories?q=visibility:public+terraform-azure)). The use of Terraform modules is required.
+Create a proof-of-concept Azure environment using Terraform. The environment will host a basic web server with proper network segmentation and security controls. Use open source terraform modules such as
+ 
+- [Microsoft Repositories](https://github.com/orgs/Azure/repositories?q=terraform-azurerm)  
+
+ The use of Terraform modules is required.
 
 
 <!-- TOC --><a name="assumptions"></a>
